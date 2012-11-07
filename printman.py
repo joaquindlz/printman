@@ -3,7 +3,7 @@
 
 ###############################################
 #     Printer Manager
-#     Version 1.0.9
+#     Version 1.0.10
 #     by Joaquin de la Zerda
 #     joaquindelazerda@gmail.com
 ###############################################
